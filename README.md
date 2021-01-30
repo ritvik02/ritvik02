@@ -37,3 +37,22 @@ Here are some ideas to get you started:
 ---
 
 <img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=ritvik02&show_icons=true&hide_border=true" />
+
+
+
+
+
+
+<div align="center">
+
+## Follow Me At
+<a href="https://www.linkedin.com/in/ritvik-khandelwal-1912b9190/"><img height="32" width="32" src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/ritvik.khandelwal/?hl=en"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/ritvik_kh"><img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+
+<div align="center">
+
+<b>⚡ Thank you for visiting my Github Profile ⚡</b>
+</div>
