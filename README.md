@@ -34,10 +34,24 @@ Here are some ideas to get you started:
 <code><img alt="SQL" title="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/></code>
 
 
+
+<br/>
+
+### Let's talk!
+
+[<img align="left" alt="ritvik02 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg"/>][gmail]
+[<img align="left" alt="ritvik02 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+
+
+<br/> 
+
 ---
 
 <img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=ritvik02&show_icons=true&hide_border=true" />
 
+
+[gmail]: mailto:ritvik02.kh@gmail.com
+[linkedin]: https://www.linkedin.com/in/ritvik-khandelwal-1912b9190/
 
 
 
