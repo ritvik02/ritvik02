@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=ritvik02&show_icons=true&hide_border=true" />
+
 
 
 [gmail]: mailto:ritvik02.kh@gmail.com
