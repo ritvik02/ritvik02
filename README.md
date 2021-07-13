@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 ### I'm a third year EXTC undergraduate with a minors in AI-ML offered by IBM at the University of Mumbai, D.J. Sanghvi College of Engineering, India.
-- 🔭 Incoming research intern at the **Surgical Robot Vision Group** of **University College London**.
+- 🔭 Research intern at the **Surgical Robot Vision Group** of **University College London**.
 - 👯 I’m open to collaborating on research projects in the field of **Computer Vision**.
 - 🤔 I’m looking for help with grad school applications!
 - 💬 Ask me about anything.
