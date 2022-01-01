@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 Research Intern at the **[Surgical Robot Vision Group](https://www.ucl.ac.uk/surgical-robot-vision/)** of **[University College London](https://www.ucl.ac.uk/)**.
 - 🔭 Research Assistant at **D.J. Sanghvi College of Engineering, India**.
 - 👯 I’m open to collaborating on research projects in the field of **Computer Vision**.
-- 📫 You can reach me via **[Linkedin](https://www.linkedin.com/in/ritvik-khandelwal-1912b9190/)**.
+- 📫 You can reach me via **[Linkedin](https://www.linkedin.com/in/ritvik-khandelwal-1912b9190/)**. You can also schedule a meeting with me via **[Calendly](https://calendly.com/ritvik02-office-hours)**
 
 
 ### Skills
