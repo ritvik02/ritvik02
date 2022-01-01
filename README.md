@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 ### Let's talk!
 
+[<img align="left" alt="My website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [<img align="left" alt="ritvik02 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg"/>][gmail]
 [<img align="left" alt="ritvik02 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
@@ -49,6 +50,7 @@ Here are some ideas to get you started:
 
 
 
+[website]: https://sites.google.com/view/ritvik-k
 [gmail]: mailto:ritvik02.kh@gmail.com
 [linkedin]: https://www.linkedin.com/in/ritvik-khandelwal-1912b9190/
 
@@ -56,12 +58,7 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
 
-## Follow Me At
-<a href="https://www.linkedin.com/in/ritvik-khandelwal-1912b9190/"><img height="32" width="32" src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/ritvik.khandelwal/?hl=en"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/ritvik_kh"><img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
 
