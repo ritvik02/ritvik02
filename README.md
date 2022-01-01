@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 ### I'm a 4th year undergraduate with a minors in AI-ML offered by IBM at the University of Mumbai, D.J. Sanghvi College of Engineering, India.
-- 🔭 Research intern at the **[Surgical Robot Vision Group](https://www.ucl.ac.uk/surgical-robot-vision/)** of **[University College London](https://www.ucl.ac.uk/)**.
-- 🔭 Research assistant at D.J. Sanghvi College of Engineering, India.
+- 🔭 Research Intern at the **[Surgical Robot Vision Group](https://www.ucl.ac.uk/surgical-robot-vision/)** of **[University College London](https://www.ucl.ac.uk/)**.
+- 🔭 Research Assistant at **D.J. Sanghvi College of Engineering, India**.
 - 👯 I’m open to collaborating on research projects in the field of **Computer Vision**.
 - 📫 You can reach me via **[Linkedin](https://www.linkedin.com/in/ritvik-khandelwal-1912b9190/)**.
 
