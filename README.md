@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-### I'm a 4th year undergraduate with a minors in AI-ML offered by IBM at the University of Mumbai, D.J. Sanghvi College of Engineering, India.
-- 🔭 Research Intern at the **[Surgical Robot Vision Group](https://www.ucl.ac.uk/surgical-robot-vision/)** of **[University College London](https://www.ucl.ac.uk/)**.
-- 🔭 Research Assistant at **D.J. Sanghvi College of Engineering, India**.
-- 👯 I’m open to collaborating on research projects in the field of **Computer Vision**.
+### I'm currently pursuing M.S. in Data Science at Columbia university in the city of New York, USA.
+- 🔭 Previously worked as a Research Intern at the **[Surgical Robot Vision Group](https://www.ucl.ac.uk/surgical-robot-vision/)** of **[University College London](https://www.ucl.ac.uk/)**.
+- 🔭 Previosuly worked as a Research intern at **D.J. Sanghvi College of Engineering, India**.
+- 👯 I’m open to collaborating on research projects in the field of **Computer Vision, Deep Learning, Machine Learning**.
 - 📫 You can reach me via **[Linkedin](https://www.linkedin.com/in/ritvik-khandelwal-1912b9190/)**. You can also schedule a meeting with me via **[Calendly](https://calendly.com/ritvik02-office-hours)**
 
 
